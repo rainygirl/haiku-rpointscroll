@@ -1,5 +1,7 @@
 # R PointScroll
 
+[한국어](README.ko.md)
+
 A native Haiku input filter for pointing-stick laptops such as the Sony VAIO
 P. Hold the middle button and move the stick to produce vertical or horizontal
 wheel events instead of moving the pointer. A middle click without movement is

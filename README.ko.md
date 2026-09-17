@@ -1,5 +1,7 @@
 # R PointScroll
 
+[English](README.md)
+
 Sony VAIO P 같은 포인팅 스틱 노트북을 위한 Haiku 입력 필터입니다. 가운데
 버튼을 누른 채 스틱을 움직이면 커서를 움직이는 대신 문서를 상하 또는 좌우로
 스크롤합니다.
